@@ -1,0 +1,47 @@
+# Lorem Ipsum
+
+> *"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."*
+
+> "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+
+---
+
+## What is Lorem Ipsum?
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+## Why do we use it?
+
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+
+The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+
+Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+## Where does it come from?
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+
+Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+---
+
+# Sample
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at felis eu sapien pretium euismod. Nunc placerat gravida velit, vitae congue nunc semper suscipit. Suspendisse potenti. Cras a condimentum justo. Aliquam erat volutpat. Aliquam et rhoncus quam. In mi odio, auctor eu est vitae, facilisis placerat nisl. Donec condimentum nunc nulla, id hendrerit enim molestie ac. In nunc justo, condimentum nec vehicula at, pretium ac augue. Ut at dictum enim. Cras non bibendum neque. In volutpat elit ornare nisi malesuada, in ornare arcu efficitur. Phasellus enim nisi, porta ultrices est vel, ultrices fringilla urna. Duis interdum lorem et quam dapibus, a convallis magna porta. Cras eleifend enim mauris, et ultrices libero viverra ut.
+
+Nunc in lobortis felis. Donec cursus nec nibh vel lobortis. In hac habitasse platea dictumst. In rutrum dapibus purus, sed bibendum augue finibus et. Pellentesque convallis velit non odio bibendum, eget suscipit dui tempor. Vivamus fringilla, purus vitae vehicula tincidunt, erat sapien elementum nulla, ut porta lectus leo in odio. Curabitur ac porta ante, quis interdum eros. Sed eu odio vel massa aliquam luctus eu quis tellus. Integer dapibus interdum est ac vehicula.
+
+Nulla facilisis mattis felis tristique varius. Mauris id metus non risus sollicitudin finibus id a orci. Phasellus molestie tortor sed velit vestibulum vulputate ut vitae sem. Duis fringilla dignissim dolor ut tempor. Fusce et lorem ac quam aliquet viverra. Ut id hendrerit velit. Fusce tristique, arcu in varius interdum, ipsum ante commodo nulla, non mattis nunc mauris ac urna. Cras diam magna, facilisis vitae ligula vel, iaculis semper erat. Morbi quis interdum ante, et varius sem. Maecenas semper iaculis fringilla. Maecenas dictum eu turpis eu tincidunt.
+
+Duis vitae vestibulum velit. Vivamus a commodo sapien. Etiam mi ligula, efficitur a tellus quis, aliquam pharetra dolor. Vivamus nunc ipsum, posuere id risus in, luctus blandit arcu. In at accumsan lacus. Nulla mollis magna id convallis auctor. Aenean a ligula ac felis auctor eleifend pellentesque mollis arcu. Suspendisse tristique dolor nec lacus suscipit cursus. Donec molestie commodo est, in scelerisque mi ultrices et.
+
+Proin vel iaculis dolor, vitae suscipit enim. Pellentesque ut tellus eu nisi viverra ullamcorper et eget tortor. Vestibulum fringilla imperdiet neque, vel commodo ligula fermentum non. Nullam tristique quam in felis fermentum maximus. Sed id fermentum nunc, ac suscipit erat. Quisque quis nisi at turpis hendrerit euismod nec eget arcu. Vestibulum ullamcorper tortor enim, et mollis neque consectetur at.
